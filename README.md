@@ -18,6 +18,6 @@ A simple and elegant blogging platform designed using only **HTML** and **CSS**.
 ### Prerequisites  
 To view and edit this project, you will need a basic code editor like [Visual Studio Code](https://code.visualstudio.com/) and a modern web browser. 
 
-#Feel free to reach out if you have any questions or suggestions!
+# Feel free to reach out if you have any questions or suggestions!
 Contact - Vrupanshivarshney@gmail.com
 
