@@ -1,0 +1,11 @@
+.contact-content{ height: 100vh; margin-top: 32px; padding: 9px; position: relative; overflow: hidden;
+}
+
+.contact-content::after { content: "";
+background-image: url("https://wallpapers.com/images/hd/project-management-aesthetic-desktop-6oxfxe1l1508cpv8.jpg"); position: absolute;
+top:0;
+
+width: 100%; height: inherit; opacity: 0.35; border-radius: 12px; z-index: -1;
+}
+ 
+ 
